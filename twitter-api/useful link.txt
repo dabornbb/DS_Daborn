@@ -1,0 +1,41 @@
+1. https://github.com/omnislash321/Twitter_Location/blob/master/L1-AMT14_LocationAnalysis.pdf
+
+content based approaches
+
+2. https://github.com/ktamilselvan1/TwitterWithMyLocation
+my location udpate in google map
+Low
+
+3. https://github.com/devarshku/twitterLocationLanguageExtract
+Language extracting
+Medium (extract language/locatoin from tweet and save to database)
+
+
+
+5. https://github.com/swarupchandra/twitter-location-content
+by tweet content & social interaction such as reply
+High ( consider reply tweet)
+
+
+6. https://github.com/teststaybaka/TwitterMap
+show real time tweet on map
+Low ( show real time tweet on map)
+
+7. https://github.com/BirlaPrasoon/TwitterMapperFinal
+Real time tweet monitoring
+Low (Monitor Tweet by keywords) not relevent
+
+8. https://github.com/taykey/twitter-location-parser
+Low (not sure what it is)
+
+10. https://github.com/qinjin/DataSetAnalysis
+User behavor and locatoin
+Low ( not sure, what is it about)
+
+11. https://github.com/guilherme-pombo/GeoWord2Vec
+Hight (Vector to words )
+
+12. https://github.com/Jinxue/LocInfer
+base on neightbour
+Hight ( Local info)
+ 
